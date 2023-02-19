@@ -1,0 +1,34 @@
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Test\obj\Debug\NonogramSolverVB.Test.vbprojAssemblyReference.cache
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Test\obj\Debug\NonogramSolverVB.Test.frmMain.resources
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Test\obj\Debug\NonogramSolverVB.Test.Resources.resources
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Test\obj\Debug\NonogramSolverVB.Test.vbproj.GenerateResource.cache
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Test\obj\Debug\NonogramSolverVB.Test.vbproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Test\bin\Debug\NonogramSolverVB.Test.exe.config
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Test\bin\Debug\NonogramSolverVB.Test.exe
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Test\bin\Debug\NonogramSolverVB.Test.pdb
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Test\bin\Debug\NonogramSolverVB.Test.xml
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Test\obj\Debug\NonogramSolverVB.Test.exe
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Test\obj\Debug\NonogramSolverVB.Test.xml
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Test\obj\Debug\NonogramSolverVB.Test.pdb
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Test\obj\Debug\NonogramSolverVB.Test.vbproj.CopyComplete
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Test\bin\Debug\NonogramSolverVB.Backend.dll
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Test\bin\Debug\NonogramSolverVB.Backend.pdb
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Test\bin\Debug\NonogramSolverVB.Backend.xml
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Test\bin\Debug\NonogramSolverVB.Backend.dll.config
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Test\bin\Debug\NonogramSolverVB.Test.exe.config
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Test\bin\Debug\NonogramSolverVB.Test.exe
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Test\bin\Debug\NonogramSolverVB.Test.pdb
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Test\bin\Debug\NonogramSolverVB.Test.xml
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Test\bin\Debug\NonogramSolverVB.Backend.dll
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Test\bin\Debug\NonogramSolverVB.Backend.pdb
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Test\bin\Debug\NonogramSolverVB.Backend.xml
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Test\bin\Debug\NonogramSolverVB.Backend.dll.config
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Test\obj\Debug\NonogramSolverVB.Test.vbprojAssemblyReference.cache
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Test\obj\Debug\NonogramSolverVB.Test.frmMain.resources
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Test\obj\Debug\NonogramSolverVB.Test.Resources.resources
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Test\obj\Debug\NonogramSolverVB.Test.vbproj.GenerateResource.cache
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Test\obj\Debug\NonogramSolverVB.Test.vbproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Test\obj\Debug\NonogramSolverVB.Test.vbproj.CopyComplete
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Test\obj\Debug\NonogramSolverVB.Test.exe
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Test\obj\Debug\NonogramSolverVB.Test.xml
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Test\obj\Debug\NonogramSolverVB.Test.pdb

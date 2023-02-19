@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NonogramSolverVB.Backend
+</name>
+</assembly>
+<members>
+<member name="T:NonogramSolverVB.Backend.My.Resources.Resources">
+<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+<member name="P:NonogramSolverVB.Backend.My.Resources.Resources.ResourceManager">
+<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member>
+<member name="P:NonogramSolverVB.Backend.My.Resources.Resources.Culture">
+<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member>
+<member name="T:NonogramSolverVB.Backend.ConstraintExtractor">
+ <summary>
+ This class takes a 2 dimensional grid and extracts row / column constraints out of it
+ </summary>
+</member>
+<member name="M:NonogramSolverVB.Backend.ConstraintExtractor.CreateGenericConstraint(System.Func{System.Int32,System.UInt32},System.Int32)">
+ <summary>
+ If we were accumulating when we hit the end of a row,
+ the current constraint hasn't been pushed yet
+ </summary>
+ <param name="_getter"></param>
+ <param name="_count"></param>
+ <returns></returns>
+</member>
+</members>
+</doc>

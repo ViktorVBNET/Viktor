@@ -1,0 +1,22 @@
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Backend\obj\Debug\NonogramSolverVB.Backend.vbprojAssemblyReference.cache
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Backend\obj\Debug\NonogramSolverVB.Backend.Resources.resources
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Backend\obj\Debug\NonogramSolverVB.Backend.vbproj.GenerateResource.cache
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Backend\obj\Debug\NonogramSolverVB.Backend.vbproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Backend\bin\Debug\NonogramSolverVB.Backend.dll.config
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Backend\bin\Debug\NonogramSolverVB.Backend.dll
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Backend\bin\Debug\NonogramSolverVB.Backend.pdb
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Backend\bin\Debug\NonogramSolverVB.Backend.xml
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Backend\obj\Debug\NonogramSolverVB.Backend.dll
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Backend\obj\Debug\NonogramSolverVB.Backend.xml
+D:\Visual Studio 2017\Projects\NonogramSolverWPF\NonogramSolverVB.Backend\obj\Debug\NonogramSolverVB.Backend.pdb
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Backend\bin\Debug\NonogramSolverVB.Backend.dll.config
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Backend\bin\Debug\NonogramSolverVB.Backend.dll
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Backend\bin\Debug\NonogramSolverVB.Backend.pdb
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Backend\bin\Debug\NonogramSolverVB.Backend.xml
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Backend\obj\Debug\NonogramSolverVB.Backend.vbprojAssemblyReference.cache
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Backend\obj\Debug\NonogramSolverVB.Backend.Resources.resources
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Backend\obj\Debug\NonogramSolverVB.Backend.vbproj.GenerateResource.cache
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Backend\obj\Debug\NonogramSolverVB.Backend.vbproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Backend\obj\Debug\NonogramSolverVB.Backend.dll
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Backend\obj\Debug\NonogramSolverVB.Backend.xml
+D:\Visual Studio 2017\Projects\Nonograms\NonogramSolver Backend\VB\NonogramSolverVB.Backend\obj\Debug\NonogramSolverVB.Backend.pdb

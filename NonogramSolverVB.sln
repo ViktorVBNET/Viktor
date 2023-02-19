@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NonogramSolverVB.Test", "NonogramSolverVB.Test\NonogramSolverVB.Test.vbproj", "{8EE67CCA-E9D8-40FE-824D-677203501A94}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NonogramSolverVB.Backend", "NonogramSolverVB.Backend\NonogramSolverVB.Backend.vbproj", "{0C527CD8-2617-488F-96AB-66DD206BDE62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EE67CCA-E9D8-40FE-824D-677203501A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE67CCA-E9D8-40FE-824D-677203501A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE67CCA-E9D8-40FE-824D-677203501A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE67CCA-E9D8-40FE-824D-677203501A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C527CD8-2617-488F-96AB-66DD206BDE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C527CD8-2617-488F-96AB-66DD206BDE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C527CD8-2617-488F-96AB-66DD206BDE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C527CD8-2617-488F-96AB-66DD206BDE62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E628E30-DDFD-4B1A-87FB-DB0F335EE8B5}
+	EndGlobalSection
+EndGlobal
